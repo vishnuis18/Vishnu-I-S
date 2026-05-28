@@ -15,7 +15,7 @@
 ## 🛠️ Skills
 - Java
 - Python
-- HTML, CSS, Tailwind CSS
+- HTML, CSS, JavaScript,Tailwind CSS
 - Git & GitHub
 - Basic Machine Learning
 
